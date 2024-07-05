@@ -1,4 +1,4 @@
-Weather App
+Weather App:
 This project is a weather application built using React.js and OpenWeatherMap API to display current weather information.
 
 Features:
